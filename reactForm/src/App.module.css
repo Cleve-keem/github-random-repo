@@ -1,0 +1,22 @@
+.form{
+    width: 200px;
+    height: 100px;
+    margin: 100px auto;
+    padding: 1rem;
+    box-shadow: 2px 2px 8px gray;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 5px;
+}
+
+button{
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 3px;
+}
